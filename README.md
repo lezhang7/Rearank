@@ -1,7 +1,8 @@
-# Rearank: Reasoning Re-ranking Agent via Reinforcement Learning 
+# [EMNLP 2025] Rearank: Reasoning Re-ranking Agent via Reinforcement Learning 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.20046-red.svg)](https://arxiv.org/abs/2505.20046)
-[![License](https://img.shields.io/badge/license-Apache-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.20046-red.svg)](https://arxiv.org/abs/2505.20046) 
+[![License](https://img.shields.io/badge/license-Apache-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Model%20Weights-yellow?style=flat)](https://huggingface.co/le723z/Rearank-7B)
 
 Rearank is an innovative **listwise reasoning reranking agent** powered by a specialized large language model (LLM). It significantly enhances information retrieval by employing **explicit reasoning** to reorder search results. Built upon **Qwen2.5-7B**, Rearank achieves performance comparable to GPT-4 while remarkably requiring **minimal annotated samples** for training.
 
@@ -44,7 +45,7 @@ wget https://huggingface.co/datasets/le723z/bright_tar/resolve/main/bright.tar.g
 
 ## Usage
 
-The model is available at [Rearank-7B](https://huggingface.co/le723z/Rearank-7B)
+The model is available at [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Model%20Weights-yellow?style=flat)](https://huggingface.co/le723z/Rearank-7B)
 
 Here's how you can use Rearank for your reranking tasks:
 
